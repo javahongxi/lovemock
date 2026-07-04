@@ -6,7 +6,7 @@ import (
 	"testing"
 
 	"github.com/javahongxi/golab/crawler/zhenai/parser"
-	"github.com/javahongxi/mockserver/config"
+	"github.com/javahongxi/lovemock/config"
 )
 
 func TestGenerate(t *testing.T) {

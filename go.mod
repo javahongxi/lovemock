@@ -1,4 +1,4 @@
-module github.com/javahongxi/mockserver
+module github.com/javahongxi/lovemock
 
 go 1.26.3
 

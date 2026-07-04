@@ -10,8 +10,8 @@ import (
 	"github.com/javahongxi/golab/crawler/engine"
 	"github.com/javahongxi/golab/crawler/model"
 	"github.com/javahongxi/golab/crawler/zhenai/parser"
-	"github.com/javahongxi/mockserver/config"
-	"github.com/javahongxi/mockserver/recommendation"
+	"github.com/javahongxi/lovemock/config"
+	"github.com/javahongxi/lovemock/recommendation"
 )
 
 func TestGenerate(t *testing.T) {

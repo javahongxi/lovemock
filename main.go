@@ -8,11 +8,11 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/javahongxi/mockserver/config"
-	"github.com/javahongxi/mockserver/generator/city"
-	"github.com/javahongxi/mockserver/generator/citylist"
-	"github.com/javahongxi/mockserver/generator/profile"
-	"github.com/javahongxi/mockserver/recommendation"
+	"github.com/javahongxi/lovemock/config"
+	"github.com/javahongxi/lovemock/generator/city"
+	"github.com/javahongxi/lovemock/generator/citylist"
+	"github.com/javahongxi/lovemock/generator/profile"
+	"github.com/javahongxi/lovemock/recommendation"
 )
 
 const templateSuggestion = "Please make sure working directory is the root of the repository, where we have go.mod/go.sum. Suggested command line: go run main.go"

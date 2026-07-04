@@ -13,8 +13,8 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/javahongxi/mockserver/config"
-	"github.com/javahongxi/mockserver/generator/profile"
+	"github.com/javahongxi/lovemock/config"
+	"github.com/javahongxi/lovemock/generator/profile"
 )
 
 // Generator represents the city generator.

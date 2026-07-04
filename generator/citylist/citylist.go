@@ -8,7 +8,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/javahongxi/mockserver/config"
+	"github.com/javahongxi/lovemock/config"
 )
 
 // Generator represents the citylist generator.

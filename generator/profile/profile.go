@@ -11,7 +11,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/javahongxi/golab/crawler/model"
-	"github.com/javahongxi/mockserver/config"
+	"github.com/javahongxi/lovemock/config"
 )
 
 // Recommendation defines the interface for recommendation subsystem.
